@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,koofr
   - DOMAIN,raw.githubusercontents.com
+  - DOMAIN,stun.voip.blackberry.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,1.0.0.1/32
   - DOMAIN-KEYWORD,ipleak
