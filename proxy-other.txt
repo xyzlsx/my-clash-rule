@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,stun.voip.blackberry.com
+  - IP-CIDR,1.0.0.1/32
