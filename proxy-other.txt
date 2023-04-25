@@ -1,4 +1,5 @@
 payload:
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,stun.voip.blackberry.com
+  - DOMAIN-SUFFIX,xyzlsx.top
   - IP-CIDR,1.0.0.1/32,no-resolve
